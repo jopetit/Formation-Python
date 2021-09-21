@@ -1,0 +1,7 @@
+Host fedora
+  HostName fedora
+  User jordanpetit
+
+Host github.com:jopetit/formation_Python.git
+  HostName github.com:jopetit/formation_Python.git
+  User git
